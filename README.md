@@ -35,8 +35,7 @@ The project is about a marketplace for Bike Accessories, including both sellers 
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* ![Java Logo](https://www.oracle.com/a/ocom/img/cb71-java-logo.png)
-
+![Java Logo](https://www.oracle.com/a/ocom/img/cb71-java-logo.png)
 
 
 <!-- GETTING STARTED -->
