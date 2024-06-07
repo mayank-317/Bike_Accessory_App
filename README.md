@@ -30,18 +30,12 @@
 The project is about a marketplace for Bike Accessories, including both sellers and buyers, similar to Amazon. Here, a customer can log in, create their profile, add products to their cart, buy them, and print the bill.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Java][Java.com]][Java-url]
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+* ![Java Logo](https://www.oracle.com/a/ocom/img/cb71-java-logo.png)
 
 
 
@@ -65,31 +59,21 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 2. Create the database in xampp by the name of bike_accessories then import the sql file in it.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 One can find any bike accessories at one place.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 <!-- CONTACT -->
 ## Contact
 
 Mayank Warkade - [@WarkadeMayank](https://x.com/WarkadeMayank) - mayankwarkade317@gmail.com
+<br>
 Project Link: [https://github.com/mayank-317/Bike_Accessory_App.git](https://github.com/mayank-317/Bike_Accessory_App.git)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -125,3 +109,5 @@ Project Link: [https://github.com/mayank-317/Bike_Accessory_App.git](https://git
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 [Java-url]: https://www.oracle.com/a/ocom/img/cb71-java-logo.png
+
+
