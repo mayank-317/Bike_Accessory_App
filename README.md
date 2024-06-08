@@ -33,8 +33,7 @@ The project is about a marketplace for Bike Accessories, including both sellers 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
+This project is built with Java and MySql.
 ![Java Logo](https://www.oracle.com/a/ocom/img/cb71-java-logo.png)
 
 
@@ -49,8 +48,6 @@ Netbeans IDE for code
 Xampp for database
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Clone the repo
    ```sh
